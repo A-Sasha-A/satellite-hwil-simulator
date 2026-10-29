@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Arduino generated
+firmware/esp32_satellite/sim_params.h
+firmware/esp32_satellite/*.bin
+firmware/esp32_satellite/*.elf
+firmware/esp32_satellite/build/
+
+# Simulation results
+results/
+
+# macOS
+.DS_Store
+._*
+
+# IDE
+.vscode/
+.idea/

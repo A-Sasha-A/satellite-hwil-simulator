@@ -1,0 +1,6 @@
+numpy
+matplotlib
+cartopy
+pyserial
+scipy
+ipython
